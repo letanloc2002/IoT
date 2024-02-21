@@ -1,0 +1,18 @@
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\bin\Debug\COM_PORT.exe
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\bin\Debug\COM_PORT.pdb
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.csprojAssemblyReference.cache
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.Form1.resources
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.Properties.Resources.resources
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.csproj.GenerateResource.cache
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.csproj.CoreCompileInputs.cache
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.exe
+H:\Code\C#_Serial_Port\COM_PORT\COM_PORT\obj\Debug\COM_PORT.pdb
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\bin\Debug\COM_PORT.exe
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\bin\Debug\COM_PORT.pdb
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.csprojAssemblyReference.cache
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.Form1.resources
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.Properties.Resources.resources
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.csproj.GenerateResource.cache
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.csproj.CoreCompileInputs.cache
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.exe
+H:\OneDrive - hcmute.edu.vn\Desktop\C# Modbus\COM_PORT\COM_PORT\obj\Debug\COM_PORT.pdb
